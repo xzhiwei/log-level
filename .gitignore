@@ -1,0 +1,17 @@
+*~
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+.mymetadata
+.myeclipse/
+
+# Intellij project files
+*.iml
+.idea/
+
+# Others
+target/
+.vscode
